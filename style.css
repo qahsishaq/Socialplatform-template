@@ -173,8 +173,16 @@ font-weight: 500;
   background-color: white;
   margin-top: 23px;
 }
+.person-btn{
+  background-color : white;
+}
+.a{
+  background: red;
+}
 
-
+.b{
+  background: white;
+}
 
 
 @media (max-width: 490px) {
